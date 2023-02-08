@@ -3,3 +3,8 @@
 body{
     background-color: hsl(218, 44%, 88%);
 }
+
+#fontBlanc {
+    height: 450px;
+    width: 290px;
+}
