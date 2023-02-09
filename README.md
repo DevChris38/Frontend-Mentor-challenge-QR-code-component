@@ -1,81 +1,31 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Voici une solution de l'exercice [QR code component challenge sur Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 
-## Overview
+## Apperçu du projet
 
-### Screenshot
+### Capture d'écran
 
 ![](./IMG_20230208_165524.jpg)
 
+### Lien
 
-### Links
+[Live Site](https://devchris38.github.io/Frontend-Mentor-challenge-QR-code-component/)
 
-- Live Site URL: [https://devchris38.github.io/Frontend-Mentor-challenge-QR-code-component/]([https://your-live-site-url.com](https://devchris38.github.io/Frontend-Mentor-challenge-QR-code-component/))
+## Mon process
 
-## My process
+### Construit avec
 
-### Built with
+- HTML5 / CSS3 vanilla
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+### Ce que ce projet m'a appris
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+C'est mon tout premier projet de site web, il est très simple, mais il m'a permis de mettre en oeuvre une partie de ce que j'ai appris en HTML5/CSS3.
 
-### What I learned
+Cela m'a par exemple permis d'utiliser un tout petit peu de flexbox pour centrer la zone principal en appliquant le code suivant au bloc parent, c'est à dire le body
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+display: flex;
+    align-items: center;
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
