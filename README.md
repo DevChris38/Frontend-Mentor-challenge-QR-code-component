@@ -18,6 +18,7 @@ Voici une solution de l'exercice [QR code component challenge sur Frontend Mento
 ### Construit avec
 
 - HTML5 / CSS3 vanilla
+- Un tout petit peu de Flexbox
 
 ### Ce que ce projet m'a appris
 
